@@ -1,3 +1,2 @@
 # Tlaix.io
-Es un sistema de gestión de insumos de restaurantes con la mision de horrar en
-<br>costos de sinsumos y hacer mas eficiente la adquisiscion de nuevos insumos.
+Este proyecto de gestión de restaurantes incorpora algoritmos de IA predictivos para optimizar la administración de insumos. Su principal objetivo es mejorar la rotación de los productos al considerar factores como la fecha de caducidad, las cantidades disponibles y la generación de itinerarios de compra, asegurando así una gestión más eficiente y reduciendo desperdicios.
